@@ -29,7 +29,7 @@ request helpers feature.
   s.add_development_dependency 'rdoc', '~> 5.1'
   s.add_development_dependency 'rubocop', '>= 0.49', '< 0.50'
   # Keep version < 1 to supress deprecated warning temporary.
-  s.add_development_dependency 'codeclimate-test-reporter', '~> 0.6'
+  s.add_development_dependency 'codeclimate-test-reporter', '~> 1.0'
   # For Thorfile. Run "bundle exec thor help" to see the help.
   s.add_development_dependency 'thor', '~>  0.19'
 end

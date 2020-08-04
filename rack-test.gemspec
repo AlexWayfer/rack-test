@@ -31,5 +31,5 @@ request helpers feature.
   # Keep version < 1 to supress deprecated warning temporary.
   s.add_development_dependency 'codeclimate-test-reporter', '~> 0.6'
   # For Thorfile. Run "bundle exec thor help" to see the help.
-  s.add_development_dependency 'thor', '~>  0.19'
+  s.add_development_dependency 'thor', '~> 1.0'
 end
